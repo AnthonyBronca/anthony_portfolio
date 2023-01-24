@@ -1,6 +1,10 @@
-{"scripts": {
-  "deploy": "npm run gh-pages",
-  "gh-pages": "gh-pages -d dist -b gh-pages"
+{ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 },
   "devDependencies": {
     "gh-pages": "^5.0.0"
