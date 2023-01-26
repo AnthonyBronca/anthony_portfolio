@@ -1,10 +1,11 @@
 Live Link: https://anthonybronca.github.io/anthony_portfolio/
 
-Hello! My name is Anthony Bronca! 👋 
+### Hello! My name is Anthony Bronca! 👋 
 
-I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby. I enjoy being able to help people, and often volunteer or work towards being in a mentoring position.
+I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby.
+I enjoy being able to help people, and often volunteer or work towards being in a mentoring position.
 
-Currently, I am working with App Academy as an Instructional Assistant, where I get to teach students how to program!
+Currently, I am working with App Academy as an instructional assistant, where I get to teach students how to program!
 
 As a full-stack developer, I am comfortable working in both front-end and back-end projects. I tend to learn towards front-end, as I love the challenges
 and creativity that come with working on user-facing technologies. My main technologies are Javascript/Typescript, but I am also comfortable working in Python. I have experience creating full-stack web and mobile applications. I also have experience with deploying applications with the use of container management systems such as Docker.
