@@ -1,6 +1,6 @@
 Live Link: https://anthonybronca.github.io/anthony_portfolio/
 
-### Hello! My name is Anthony Bronca! 👋 
+Hello! My name is Anthony Bronca! 👋 
 
 I am a natural jack-of-trades. I have an innate curosity for learning new things, whether it be technologies, out door activities, or some sort of hobby.
 I enjoy being able to help people, and often volunteer or work towards being in a mentoring position.
